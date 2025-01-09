@@ -5,7 +5,7 @@ from typing import List
 class KuwaitBot(AbstractBot):
     @property
     def name(self) -> str:
-        return "New Tactic Bot"
+        return "Kuwait Bot"
 
     @property
     def description(self) -> str:
